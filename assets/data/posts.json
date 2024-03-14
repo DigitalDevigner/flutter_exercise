@@ -1,0 +1,88 @@
+{
+  "posts": [
+    {
+      "created_at": "2024-02-27T14:00:00-08:00",
+      "id": 877994604561387500,
+      "member_name": "Bail Organa",
+      "member_id": 8761289385608234,
+      "title": "Stunning!",
+      "text": "Had a great day seeing the grand Canyon. Really made my trip to AZ complete. The really wonderful moments of joy in this world are not the moments of self-satisfaction, but self-forgetfulness. Standing on the edge of the Grand Canyon and contemplating your own greatness is pathological. At such moments we are made for a magnificent joy that comes from outside ourselves.",
+      "location": "Grand Canyon, Arizona",
+      "images": [
+        {
+          "id": 123456,
+          "url": "https://www.nps.gov/common/uploads/grid_builder/grca/crop16_9/AF8C77B2-1DD8-B71B-0B682A687D9F54FE.jpg?width=640&quality=90&mode=crop"
+        },
+        {
+          "id": 123457,
+          "url": "https://i.pinimg.com/736x/4c/d0/48/4cd048c28b57360b424930e54ef38499.jpg"
+        }
+      ],
+      "likes": 32,
+      "shares": 4
+    },
+    {
+      "created_at": "2024-02-26T14:00:00-08:00",
+      "id": 75892086802,
+      "member_name": "Wade Wilson",
+      "member_id": 3789190509823,
+      "title": "Good times",
+      "text": "Mesmerizing and Amazing! It's a mesmerizing experience! To me a visit to the Golden Gate Bridge is a technical marvel. There is something mystical about this place glancing at the blue water, a very positive, happy and a peaceful feeling when you get there.",
+      "location": "San Francisco, California",
+      "images": [
+        {
+          "id": 223456,
+          "url": "https://a.cdn-hotels.com/gdcs/production83/d171/381e80c3-1baf-4822-9fb7-5d39274f9cf5.jpg?impolicy=fcrop&w=800&h=533&q=medium"
+        },
+        {
+          "id": 223457,
+          "url": "https://assets.editorial.aetnd.com/uploads/2012/05/this-day-in-history-01-05-1933-golden-gate-bridge-born.jpg?width=768"
+        },
+        {
+          "id": 223458,
+          "url": "https://images.squarespace-cdn.com/content/v1/56e8fcc03c44d89db7df9b3e/1554359150041-FS043JZG6F79BEDSZIY2/11+Picture-Perfect+Views+of+the+Golden+Gate+Bridge+in+San+Francisco?format=500w"
+        }
+      ],
+      "likes": 185,
+      "shares": 23
+    },
+    {
+      "created_at": "2024-02-25T14:00:00-08:00",
+      "id": 54343287694598,
+      "member_name": "Tony Stark",
+      "member_id": 84812659876,
+      "title": "The best hiking ever!",
+      "text": "Cathedral Rock is one of the best hikes in Sedona. This hike is short and sweet, and with some rock scrambling and jaw-dropping views, it's tons of fun from start to finish. Because of its popularity, do not expect solitude on this trail. This experience is much more about the climb up Cathedral Rock and the reward of panoramic views. This hike is very similar to the Bell Rock Climb, only on a much larger scale. From the trailhead, you will hike and rock scramble your way up to Cathedral Rock, until you get to the saddle between the massive spires of sandstone. Enjoy the view!",
+      "location": "Sedona, Arizona",
+      "images": [
+        {
+          "id": 323456,
+          "url": "https://www.roadtripimages.com/wp-content/uploads/2018/01/Cathedral-Rock-2-800.jpg"
+        }
+      ],
+      "likes": 22,
+      "shares": 2
+    },
+    {
+      "created_at": "2024-02-24T14:00:00-08:00",
+      "id": 23489579348576029,
+      "member_name": "James Kirk",
+      "member_id": 46789296727,
+      "title": "Stayed at a home right on Lombard Street",
+      "text": "The block-long \"Crookedest Street in the World\" makes eight switchbacks down the east face of Russian Hill between Hyde and Leavenworth Streets. Join the line of cars waiting to drive down the steep hill, or avoid the whole mess and walk down the steps on either side of Lombard. You take in super views of North Beach and Coit Tower either way—though if you're the one behind the wheel, you'd better keep your eye on the road lest you become yet another of the many folks who ram the garden barriers.Can't stand the traffic? Thrill seekers of a different stripe may want to head two blocks south of Lombard to Filbert Street. At a gradient of 31.5%, the hair-raising descent between Hyde and Leavenworth Streets is one of the city's steepest. Go slowly!",
+      "location": "San Francisco, California",
+      "images": [
+        {
+          "id": 423456,
+          "url": "https://www.sfmta.com/sites/default/files/imce-images/2019/lombard-street-san-fran_2.jpg"
+        },
+        {
+          "id": 423457,
+          "url": "https://www.fodors.com/assets/destinations/708034/lombard-street-san-francisco-california_main.jpg"
+        }
+      ],
+      "likes": 3,
+      "shares": 0
+    }
+  ]
+}
